@@ -1,11 +1,96 @@
-#huvudnavigation {
-    
-}
-
-.Text {
-    
-}
-
 .Texter {
-    
+    background: black;
+    color: yellow;
+    margin: 0;
+    width: 150px;
+    height: 35px;
+    position: relative;   
+}
+
+.Texterna {
+    background: blue;
+    color: red;
+    margin: 0;
+    width: 525px;
+    height: 35px;
+    position: relative;
+}
+
+#Decks {
+    margin: 0;
+    position: relative;
+    width: 200px;
+    height: 1250px;
+    z-index: -1;
+}
+
+#Deck {
+    margin: 0;
+    position: absolute;
+    top: 1110px;
+    left: 700px;
+    width: 585px;
+    height: 1200px;
+    z-index: -1;   
+}
+
+#Kortlek {
+    margin: 0;
+    position: relative;
+    width: 676px;
+    height: 1315px;
+    z-index: -1;
+}
+
+#Kortleken {
+    margin: 0;
+    position: absolute;
+    top: 2375px;
+    left: 650px;
+    width: 655px;
+    height: 1280px;
+    z-index: -1;
+}
+
+#Kortlekarna {
+    margin: 0;
+    position: relative;
+    width: 643px;
+    height: 1280px;
+    z-index: -1;
+}
+
+#Decken {
+    margin: 0;
+    position: absolute;
+    top: 3700px;
+    left: 650px;
+    width: 662px;
+    height: 1280px;
+    z-index: -1;
+}
+
+#Deckarna {
+    margin: 0;
+    position: relative;
+    width: 647px;
+    height: 1280px;
+    z-index: -1;
+}
+
+
+#Operator {
+    margin: 0;
+    position: relative;
+    width: 600px;
+    height: 435px;
+    z-index: -1;
+}
+
+#Operators {
+    margin: 0;
+    position: relative;
+    width: 600px;
+    height: 375px;
+    z-index: -1;
 }
